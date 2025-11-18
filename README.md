@@ -2,10 +2,11 @@
 # Sunlessbound-preview
 Sunlessbound is a 3D multiplayer post-apocalyptic survival game where the player lives in a bunker to protect themselves from the deadly sun burning outside. At night, when the sun disappears, the player must go out to explore and gather resources while avoiding dangerous monsters roaming the darkness.
 
-![Image1](images/image1.png)
-Inventory system
-![Image2](images/image2.png)
+This project is being developed using the Godot Engine version 4.5. It is currently at a very early stage of development, with core systems only partially implemented.
 
+![Image1](images/image1.png)
+![Image2](images/image2.png)
+![Gif](images/video.gif)
 
 ## Current Systems Implemented
 
@@ -20,6 +21,7 @@ Inventory system
 - Multiplayer functionality  
 - Advanced resource management and survival mechanics  
 - Night exploration and monster encounter systems  
+
 
 ## Assets Source
 
